@@ -1,0 +1,12 @@
+.dropdown {
+  display: flex;
+  flex-direction: column;
+  padding: 20px;
+  text-align: center; 
+}
+
+.title {
+  margin-bottom: 20px; 
+  font-size: 24px;
+  font-weight: bold; 
+}
